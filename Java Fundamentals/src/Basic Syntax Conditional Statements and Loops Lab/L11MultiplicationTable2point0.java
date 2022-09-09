@@ -2,7 +2,7 @@ package basicSyntaxConditionalStatementsAndLoopsLab;
 
 import java.util.Scanner;
 
-public class P11MultiplicationTable2point0 {
+public class L11MultiplicationTable2point0 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = Integer.parseInt(scanner.nextLine());
