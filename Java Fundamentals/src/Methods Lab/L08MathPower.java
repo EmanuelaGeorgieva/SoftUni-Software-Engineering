@@ -1,5 +1,6 @@
 package methodsLab;
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class L08MathPower {
